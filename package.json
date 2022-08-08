@@ -18,5 +18,8 @@
   "homepage": "https://github.com/mpoc/pic-to-ascii#readme",
   "devDependencies": {
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "sharp": "^0.30.7"
   }
 }
