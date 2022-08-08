@@ -1,0 +1,19 @@
+{
+  "name": "pic-to-ascii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpoc/pic-to-ascii.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpoc/pic-to-ascii/issues"
+  },
+  "homepage": "https://github.com/mpoc/pic-to-ascii#readme"
+}
